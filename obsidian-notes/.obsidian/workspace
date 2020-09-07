@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "bca46caa04988669",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8eae1b77667dfb4",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "unix-cmd.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78da300b880d35db",
+    "type": "split",
+    "children": [
+      {
+        "id": "24769aca661631a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e3dffd8d5d7ec7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "387cd1e138912ad2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ccef680e09e2240",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 131.0036334991455
+  },
+  "right": {
+    "id": "33a9f27ab448f85f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6321a7c26142dce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf63318b6207f4dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unix-cmd.md"
+              }
+            }
+          },
+          {
+            "id": "f8e758c281e6bf77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "unix-cmd.md",
+    "c-operators.md",
+    "c-language.md",
+    "git-cmd.md",
+    "Git-Command.md"
+  ]
+}
