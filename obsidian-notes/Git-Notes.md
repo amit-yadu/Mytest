@@ -1,4 +1,4 @@
-Git is free and open source distributed version control system designed to handle everything from small to very large project with speed and efficiency.
+Git is free and open source distributed version control system designed to handle everything from small to very large project with speed and efficiency...
 
 ## Git Started
 here are some important command for git user.

@@ -5,7 +5,7 @@ main(){
   getch();
 }
 
-## Data Types In C:
+## Data Types In C :
 there is 2 type of datatypes in c.
 1) Primary Data types
      - Integer type (int) 2 byte

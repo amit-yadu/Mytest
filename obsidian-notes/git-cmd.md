@@ -1,4 +1,4 @@
-
+### Basic commnd
 #creation of repos
 
 1-git init (Create .git)

@@ -1,4 +1,4 @@
-##  operators
+## C Operators
 - In order to manipulate and work with variables and values in C, we are have a number of operators at our disposal.
 - Lets take a look at some of these now.
 

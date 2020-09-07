@@ -7,7 +7,7 @@
      
 	 
 - Note: in output section we can't enter input parameter so we need to change the setting from.
-Goto File -> Prefrences -> Setting -> RunCodeConfiguration-> Select RunInTerminal
+Goto File -> Prefrences -> Setting -> RunCodeConfiguration-> Select RunInTerminal ...
 
 ## First C code using vs code:
    - print hello world in [[c-language]]

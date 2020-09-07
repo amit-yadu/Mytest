@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "unix-cmd.md",
+            "file": "c-language.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unix-cmd.md"
+                "file": "c-language.md"
               }
             }
           },
@@ -90,10 +90,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "unix-cmd.md",
-    "c-operators.md",
     "c-language.md",
+    "c-operators.md",
     "git-cmd.md",
-    "Git-Command.md"
+    "Git-Command.md",
+    "Git-Notes.md"
   ]
 }

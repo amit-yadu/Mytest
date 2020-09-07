@@ -19,3 +19,5 @@ Result: Copies the contents of fileone to a file named filetwo
 - touch
 - diff
 - telnet
+
+for more we need to ....
